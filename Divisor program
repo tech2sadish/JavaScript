@@ -1,5 +1,5 @@
 num = prompt (" Enter any number ");
-divisor = 2;
+divisor = 2; // Edit if you want to start with 1
 count = 0;
 while(divisor<=num)
 {
