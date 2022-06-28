@@ -1,0 +1,14 @@
+num = prompt (" Enter any number ");
+divisor = 2;
+count = 0;
+while(divisor<=num)
+{
+	if(num%divisor==0)
+	{
+		console.log(divisor)
+		count++
+		
+	}
+divisor++;
+}
+console.log(count)
